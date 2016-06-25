@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/tochman/karma_boilerplate",
   "devDependencies": {
+    "cover": "^0.2.9",
+    "coveralls": "^2.11.9",
     "jasmine-core": "^2.4.1",
     "karma": "^0.13.22",
     "karma-chrome-launcher": "^1.0.1",
