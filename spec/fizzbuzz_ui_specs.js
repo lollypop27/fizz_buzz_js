@@ -4,6 +4,12 @@ describe('Fizz_Buzz_UI - index.html', function() {
     loadFixtures('index.html');
     $.holdReady('index.html');
     $('#number').val('100');
-    $('#calculate').trigger('click');
+    $('#enter').trigger('click');
   });
-});
+  it("displays Fizz Buzz Value", function() {
+      expect($('#display_value').text()).toBe('Your number equals');
+  });
+  it("displays Fizz Buzz Message", function() {
+      expect($('#display_message').text()).toBe('and you get fizzbuzz');
+  });
+})
