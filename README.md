@@ -93,3 +93,4 @@ Sample output
 http://stackoverflow.com/questions/9549780/what-does-this-symbol-mean-in-javascript
 https://blog.8thlight.com/mike-jansen/2011/11/13/avoiding-common-errors-in-your-jasmine-specs.html
 http://stackoverflow.com/questions/16620665/fizzbuzz-programdetails-given-in-javascript
+https://en.wikipedia.org/wiki/Fizz_buzz
