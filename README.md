@@ -1,4 +1,4 @@
-## JS Test Boilerplate 0.1 (WIP)
+## Fizz Buzz Challenge
 [![Build Status](https://travis-ci.org/lollypop27/fizz_buzz_js.svg?branch=master)](https://travis-ci.org/lollypop27/fizz_buzz_js)
 [![Coverage Status](https://coveralls.io/repos/github/CraftAcademy/karma-jquery-jasmine_boilerplate/badge.svg?branch=master)](https://coveralls.io/github/CraftAcademy/karma-jquery-jasmine_boilerplate?branch=master)
 
