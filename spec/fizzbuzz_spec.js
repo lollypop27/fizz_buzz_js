@@ -8,4 +8,8 @@ describe("fizz_buzz", function() {
     it("returns 'buzz' if number is divisible by 5", function() {
       expect(fizz_buzz(20)).toEqual('buzz');
     });
+
+    it("returns 'fizzbuzz' if number is divisible by 15", function() {
+      expect(fizz_buzz(30)).toEqual('fizzbuzz');
+    });
 });
