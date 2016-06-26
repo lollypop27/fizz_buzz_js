@@ -1,11 +1,7 @@
-describe("FizzBuzz", function() {
+describe("fizz_buzz", function() {
     var fizz_buzz;
 
-  beforeEach(function() {
-    fizz_buzz = new FizzBuzz();
-  });
-
-  it("returns 1 if number = 1", function() {
-    expect(fizz_buzz(1)).toEqual('1');
-  });
+    it("returns 'fizz' if number is divisible by 3", function() {
+      expect(fizz_buzz(3)).toEqual('Fizz');
+    });
 });
