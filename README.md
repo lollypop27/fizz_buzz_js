@@ -1,6 +1,6 @@
 ## Fizz Buzz Challenge
 [![Build Status](https://travis-ci.org/lollypop27/fizz_buzz_js.svg?branch=master)](https://travis-ci.org/lollypop27/fizz_buzz_js)
-[![Coverage Status](https://coveralls.io/repos/github/CraftAcademy/karma-jquery-jasmine_boilerplate/badge.svg?branch=master)](https://coveralls.io/github/CraftAcademy/karma-jquery-jasmine_boilerplate?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/lollypop27/fizz_buzz_js/badge.svg?branch=master)](https://coveralls.io/github/lollypop27/fizz_buzz_js?branch=master)
 
 ####Dependencies
 * [Jasmine](https://github.com/jasmine/jasmine)
