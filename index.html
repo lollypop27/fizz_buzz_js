@@ -1,17 +1,34 @@
 <html>
   <head>
     <meta charset="utf-8">
-
-    <title>BMI Challenge</title>
+    <title>Fizz Buzz Challenge</title>
     <link rel="stylesheet" href="css/foundation.css">
   </head>
   <body>
-    <form>
-      <input type="text" id="weight" placeholder="Weight">
-      <input class="success button" type="button" id="enter" value="Give it to me!">
-    </form>
+    <div>Header</div>
+    <div>Instructions</div>
+    <div>
+      <form>
+        <input type="text" id="weight" placeholder="Enter a number">
+        <input class="success button" type="button" id="enter" value="Let's Go!">
+      </form>
+      <div>
+        <span id="display_value"></span>
+        <span id="display_message"></span>
+  </div>
+    </div>
   </body>
   <footer>
     <script src='https://code.jquery.com/jquery-2.1.4.js'></script>
-    <script src="src/fizzbuzz.js"></script>
+    <script src="assets/js/fizzbuzz.js"></script>
+
+    <!-- <script type="text/javascript">
+    $(document).ready(function(){
+        if $("#number").attr("placeholder", "Your number"); {
+            $('#enter').click(function();
+            $('#display_value').html('Your number ' + '#number');
+            $('#display_message').html('and say '+ '#display_message');
+          });
+        }; -->
+
   </footer>
